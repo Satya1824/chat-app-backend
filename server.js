@@ -38,7 +38,7 @@ const server = app.listen(
 const io = new Server(server, {
   pingTimeout: 60000,
   cors: {
-    origin: process.env.FRONT_END,
+    origin: "https://65198307374989580fe2967c--whimsical-hummingbird-b7ffea.netlify.app",
   },
 });
 
