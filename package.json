@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines": {
     "node": "14.x"
-  }
+  },
   "type": "module",
   "scripts": {
     "start": "node server.js",
