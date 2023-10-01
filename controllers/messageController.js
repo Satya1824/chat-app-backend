@@ -1,4 +1,4 @@
-import userModel from "../Models/userModel.js";
+import userModel from "../models/userModel.js";
 import chatModel from "../models/chatModel.js";
 import messageModel from "../models/messageModel.js";
 
